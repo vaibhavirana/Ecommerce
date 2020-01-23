@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356203892845",
+    "firebase_url": "https://salespersondemo-7586b.firebaseio.com",
+    "project_id": "salespersondemo-7586b",
+    "storage_bucket": "salespersondemo-7586b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356203892845:android:8361dd8266c741bb802f64",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356203892845-ejpf1rajpojrdmfgq7mttlb66bc0ohip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RYnEg42iCbiBpHuQrmvypTTGCAx_OLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356203892845-ejpf1rajpojrdmfgq7mttlb66bc0ohip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
